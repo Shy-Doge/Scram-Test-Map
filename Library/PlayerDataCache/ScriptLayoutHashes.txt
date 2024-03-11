@@ -1,0 +1,24 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/gonca/AppData/LocalLow/DefaultCompany/scram test map/UMod.BuildEngine_TempWorking/shystestmap-sceneassets.bin
+0b0399c4b7b49c440fa718ace4ac585a UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+eb1b98eae58d1c3cddd6ef4553520642 UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+a2313de45ed47f1a12bb2d80e8b2de54 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+175dd00ae96553b8a04af9b4a3d027a2 UnityEngine.UI.dll:UnityEngine.UI.Mask
+b9d358490de4bfdd2595b1175db8826f UnityEngine.UI.dll:UnityEngine.UI.RawImage
+a4ef7c59ab7201ab109de36901ceb49b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+769e576fcd3f60fa29a2cccb9e8127d9 UnityEngine.UI.dll:UnityEngine.UI.Text
+37abbb9660a3c7b05c8de83319dded1c UMod-Shared.dll:UMod.Shared.Linker.LinkAnchor
+ccae0bd6e89fab1978c16525046452b3 UMod-Shared.dll:UMod.Shared.Linker.LinkArray
+92d89cef378c87d08ff09071e102fa6a UMod-Shared.dll:UMod.Shared.Linker.LinkBehaviour
+b12478a968e6654168bf8be79307f08a UMod-Shared.dll:UMod.Shared.Linker.LinkBehaviourCache
+00551b544b445d1c3228c51b337fa703 UMod-Shared.dll:UMod.Shared.Linker.LinkDependencies
+e89e5533b10a55f97baf73b66c33c44e UMod-Shared.dll:UMod.Shared.Linker.LinkInstance
+1cc10095c1796d3b4fa8d0044b2fc824 UMod-Shared.dll:UMod.Shared.ModObjectIdentity
+eb057f9fee5eda42789361a9450fc235 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveBool
+53e0a6184c8a7aa3c4c510b8e6d194a9 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveDecimal
+63eaa1894f7e0731a6921e17bff6a147 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveEnum
+7f5d2e084ab4c836e15034157cf7a091 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveInt
+c79351ebe96fc9c7d39e5c59877e3446 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveString
+c80e0e21ebd9a2aab79ef1fb7a35f593 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_UnityObject
+f2ddf17f7a72b9d5bdd3126e6ab8f196 Assembly-CSharp.dll:.ObjectSpawner
